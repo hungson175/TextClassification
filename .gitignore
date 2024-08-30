@@ -10,3 +10,5 @@ env.bak/
 venv.bak/
 # Exclude all directories starting with 'checkpoint-' and their contents
 **/checkpoint-*/**
+
+
