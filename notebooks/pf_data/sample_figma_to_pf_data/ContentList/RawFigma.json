@@ -1,0 +1,1307 @@
+{
+"name":"Trust badge",
+"type":"FRAME",
+"visible":true,
+"x":0,
+"y":5973,
+"width":1440,
+"height":960,
+"rotation":0,
+"opacity":1,
+"cornerRadius":0,
+"cornerSmoothing":0,
+"constraints":
+{
+	"horizontal": "MIN",
+	"vertical": "MIN"
+},
+"fills":
+[
+	{
+		"type": "SOLID",
+		"visible": true,
+		"opacity": 1,
+		"blendMode": "NORMAL",
+		"color": {
+			"r": 1,
+			"g": 0.9416666626930237,
+			"b": 0.9483974575996399
+		},
+		"boundVariables": {}
+	}
+],
+"strokeCap":"NONE",
+"strokeJoin":"MITER",
+"strokeMiterLimit":4,
+"strokeStyleId":"",
+"strokeWeight":1,
+"children":
+[
+	{
+		"name":"Union",
+		"type":"BOOLEAN_OPERATION",
+		"visible":true,
+		"x":-63,
+		"y":326,
+		"width":1566,
+		"height":791,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"fills":
+		[
+			{
+				"type": "SOLID",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"color": {
+					"r": 0.9607843160629272,
+					"g": 0.7411764860153198,
+					"b": 0.7607843279838562
+				},
+				"boundVariables": {}
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1,
+		"children":
+		[
+			{
+				"name":"Ellipse 11",
+				"type":"ELLIPSE",
+				"visible":true,
+				"x":-63,
+				"y":326,
+				"width":1566,
+				"height":791,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"arcData":
+				{
+					"startingAngle": 0,
+					"endingAngle": 6.2831854820251465,
+					"innerRadius": 0
+				},
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"fills":
+				[
+					{
+						"type": "SOLID",
+						"visible": true,
+						"opacity": 1,
+						"blendMode": "NORMAL",
+						"color": {
+							"r": 0.8509804010391235,
+							"g": 0.8509804010391235,
+							"b": 0.8509804010391235
+						},
+						"boundVariables": {}
+					}
+				],
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1
+			},
+			{
+				"name":"Rectangle 151",
+				"type":"RECTANGLE",
+				"visible":true,
+				"x":0,
+				"y":840,
+				"width":1440,
+				"height":152,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"fills":
+				[
+					{
+						"type": "SOLID",
+						"visible": true,
+						"opacity": 1,
+						"blendMode": "NORMAL",
+						"color": {
+							"r": 0.8509804010391235,
+							"g": 0.8509804010391235,
+							"b": 0.8509804010391235
+						},
+						"boundVariables": {}
+					}
+				],
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1
+			}
+		]
+	},
+	{
+		"name":"Frame 320",
+		"type":"FRAME",
+		"visible":true,
+		"x":0,
+		"y":0,
+		"width":1440,
+		"height":960,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1,
+		"children":
+		[
+			{
+				"name":"Frame 340",
+				"type":"INSTANCE",
+				"visible":true,
+				"x":135,
+				"y":88,
+				"width":1170,
+				"height":136,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":0.34478527307510376,
+				"children":
+				[
+					{
+						"name":"Share the love this Valentine",
+						"type":"TEXT",
+						"visible":true,
+						"x":0,
+						"y":0,
+						"width":1170,
+						"height":96,
+						"rotation":0,
+						"opacity":1,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"characters":"How we make our T-shirts",
+						"fontSize":64,
+						"textAlignHorizontal":"CENTER",
+						"textAlignVertical":"TOP",
+						"fontName":
+						{
+							"family": "Sofia",
+							"style": "Regular"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 0.7764706015586853,
+									"g": 0.22745098173618317,
+									"b": 0.2549019753932953
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1.042849063873291
+					},
+					{
+						"name":"Unlock special offer for lovey dovey couples",
+						"type":"TEXT",
+						"visible":true,
+						"x":0,
+						"y":104,
+						"width":1170,
+						"height":32,
+						"rotation":0,
+						"opacity":1,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"characters":"All are made by our love",
+						"fontSize":24,
+						"textAlignHorizontal":"CENTER",
+						"textAlignVertical":"TOP",
+						"fontName":
+						{
+							"family": "Poppins",
+							"style": "Medium"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 0.30980393290519714,
+									"g": 0.30980393290519714,
+									"b": 0.30980393290519714
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1.042849063873291
+					}
+				]
+			},
+			{
+				"name":"Frame 334",
+				"type":"FRAME",
+				"visible":true,
+				"x":135,
+				"y":284,
+				"width":1170,
+				"height":588,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1,
+				"children":
+				[
+					{
+						"name":"Frame 280",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":0,
+						"y":0,
+						"width":370,
+						"height":588,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":8,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 1,
+									"g": 1,
+									"b": 1
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":0.5384615063667297,
+						"children":
+						[
+							{
+								"name":"Rectangle 41",
+								"type":"RECTANGLE",
+								"visible":true,
+								"x":16,
+								"y":16,
+								"width":338,
+								"height":260,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":8,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"fills":
+								[
+									{
+										"type": "IMAGE",
+										"src":"images/cf6df442b4e5d2262d9da6402e9f0eda0e99b4c8.png",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"scaleMode": "FILL",
+										"imageTransform": [
+											[
+												0.8020218014717102,
+												0,
+												0.0989890843629837
+											],
+											[
+												0,
+												1,
+												0
+											]
+										],
+										"scalingFactor": 0.5,
+										"rotation": 0,
+										"filters": {
+											"exposure": 0,
+											"contrast": 0,
+											"saturation": 0,
+											"temperature": 0,
+											"tint": 0,
+											"highlights": 0,
+											"shadows": 0
+										},
+										"imageHash": "cf6df442b4e5d2262d9da6402e9f0eda0e99b4c8"
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1
+							},
+							{
+								"name":"Frame 333",
+								"type":"FRAME",
+								"visible":true,
+								"x":28.5,
+								"y":308,
+								"width":313,
+								"height":248,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":"Frame 335",
+										"type":"FRAME",
+										"visible":true,
+										"x":0,
+										"y":0,
+										"width":313,
+										"height":184,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":0,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1,
+										"children":
+										[
+											{
+												"name":"Fabric choice",
+												"type":"TEXT",
+												"visible":true,
+												"x":0,
+												"y":0,
+												"width":313,
+												"height":32,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"Fabric choice",
+												"fontSize":20,
+												"textAlignHorizontal":"CENTER",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "SemiBold"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.7764706015586853,
+															"g": 0.22745098173618317,
+															"b": 0.2549019753932953
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1.6286487579345703
+											},
+											{
+												"name":"A high quality T-shirt mostly depends on the type of fabric used. Our products are made of 100% Cotton fabric. Cotton is considered one of the best fabrics for T-shirt manufacturing since it is soft and breathable.",
+												"type":"TEXT",
+												"visible":true,
+												"x":0,
+												"y":40,
+												"width":313,
+												"height":144,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"A high quality T-shirt mostly depends on the type of fabric used. Our products are made of 100% Cotton fabric. Cotton is considered one of the best fabrics for T-shirt manufacturing since it is soft and breathable.",
+												"fontSize":16,
+												"textAlignHorizontal":"CENTER",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "Light"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.20000000298023224,
+															"g": 0.20000000298023224,
+															"b": 0.20000000298023224
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1.6286487579345703
+											}
+										]
+									},
+									{
+										"name":"Frame 338",
+										"type":"INSTANCE",
+										"visible":true,
+										"x":71,
+										"y":208,
+										"width":171,
+										"height":40,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":4,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 0.7764706015586853,
+													"g": 0.22745098173618317,
+													"b": 0.2549019753932953
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":2,
+										"children":
+										[
+											{
+												"name":"Shop Now",
+												"type":"TEXT",
+												"visible":true,
+												"x":16,
+												"y":8,
+												"width":139,
+												"height":24,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"more information",
+												"fontSize":16,
+												"textAlignHorizontal":"LEFT",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "Medium"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 1,
+															"g": 0.9921568632125854,
+															"b": 0.8980392217636108
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"name":"Frame 281",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":400,
+						"y":0,
+						"width":370,
+						"height":588,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":8,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 1,
+									"g": 1,
+									"b": 1
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":0.5384615063667297,
+						"children":
+						[
+							{
+								"name":"Rectangle 41",
+								"type":"RECTANGLE",
+								"visible":true,
+								"x":16,
+								"y":16,
+								"width":338,
+								"height":260,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":8,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"fills":
+								[
+									{
+										"type": "IMAGE",
+										"src":"images/c8db84968d64d8b051055fc8c2590c20e44fb980.png",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"scaleMode": "CROP",
+										"imageTransform": [
+											[
+												0.6007677316665649,
+												0,
+												0.19961611926555634
+											],
+											[
+												0,
+												0.39923223853111267,
+												0.30038386583328247
+											]
+										],
+										"scalingFactor": 0.5,
+										"filters": {
+											"exposure": 0,
+											"contrast": 0,
+											"saturation": 0,
+											"temperature": 0,
+											"tint": 0,
+											"highlights": 0,
+											"shadows": 0
+										},
+										"imageHash": "c8db84968d64d8b051055fc8c2590c20e44fb980"
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1
+							},
+							{
+								"name":"Frame 333",
+								"type":"FRAME",
+								"visible":true,
+								"x":28.5,
+								"y":308,
+								"width":313,
+								"height":248,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":"Frame 335",
+										"type":"FRAME",
+										"visible":true,
+										"x":0,
+										"y":0,
+										"width":313,
+										"height":184,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":0,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1,
+										"children":
+										[
+											{
+												"name":"Fabric choice",
+												"type":"TEXT",
+												"visible":true,
+												"x":0,
+												"y":0,
+												"width":313,
+												"height":32,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"Seasonal Graphics",
+												"fontSize":20,
+												"textAlignHorizontal":"CENTER",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "SemiBold"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.7764706015586853,
+															"g": 0.22745098173618317,
+															"b": 0.2549019753932953
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1.6286487579345703
+											},
+											{
+												"name":"A high quality T-shirt mostly depends on the type of fabric used. Our products are made of 100% Cotton fabric. Cotton is considered one of the best fabrics for T-shirt manufacturing since it is soft and breathable.",
+												"type":"TEXT",
+												"visible":true,
+												"x":0,
+												"y":40,
+												"width":313,
+												"height":144,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"All products are printed with advanced equipment and also designed by our talented artists. We also print custom T-shirts for occasions, events, and groups. Contact us to make your couple T-shirts right now.",
+												"fontSize":16,
+												"textAlignHorizontal":"CENTER",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "Light"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.20000000298023224,
+															"g": 0.20000000298023224,
+															"b": 0.20000000298023224
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1.6286487579345703
+											}
+										]
+									},
+									{
+										"name":"Frame 338",
+										"type":"INSTANCE",
+										"visible":true,
+										"x":71,
+										"y":208,
+										"width":171,
+										"height":40,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":4,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 0.7764706015586853,
+													"g": 0.22745098173618317,
+													"b": 0.2549019753932953
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":2,
+										"children":
+										[
+											{
+												"name":"Shop Now",
+												"type":"TEXT",
+												"visible":true,
+												"x":16,
+												"y":8,
+												"width":139,
+												"height":24,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"more information",
+												"fontSize":16,
+												"textAlignHorizontal":"LEFT",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "Medium"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 1,
+															"g": 0.9921568632125854,
+															"b": 0.8980392217636108
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"name":"Frame 282",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":800,
+						"y":0,
+						"width":370,
+						"height":588,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":8,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 1,
+									"g": 1,
+									"b": 1
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":0.5384615063667297,
+						"children":
+						[
+							{
+								"name":"Rectangle 41",
+								"type":"RECTANGLE",
+								"visible":true,
+								"x":16,
+								"y":16,
+								"width":338,
+								"height":260,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":8,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"fills":
+								[
+									{
+										"type": "IMAGE",
+										"src":"images/0871c930196ed73f9ccdfaf0fb7fd0b72e10a937.png",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"scaleMode": "FILL",
+										"imageTransform": [
+											[
+												0.80283522605896,
+												0,
+												0.09858237951993942
+											],
+											[
+												0,
+												1,
+												0
+											]
+										],
+										"scalingFactor": 0.5,
+										"rotation": 0,
+										"filters": {
+											"exposure": 0,
+											"contrast": 0,
+											"saturation": 0,
+											"temperature": 0,
+											"tint": 0,
+											"highlights": 0,
+											"shadows": 0
+										},
+										"imageHash": "0871c930196ed73f9ccdfaf0fb7fd0b72e10a937"
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1
+							},
+							{
+								"name":"Frame 333",
+								"type":"FRAME",
+								"visible":true,
+								"x":28.5,
+								"y":308,
+								"width":313,
+								"height":248,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":"Frame 335",
+										"type":"FRAME",
+										"visible":true,
+										"x":0,
+										"y":0,
+										"width":313,
+										"height":184,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":0,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1,
+										"children":
+										[
+											{
+												"name":"Fabric choice",
+												"type":"TEXT",
+												"visible":true,
+												"x":0,
+												"y":0,
+												"width":313,
+												"height":32,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"Box packaging",
+												"fontSize":20,
+												"textAlignHorizontal":"CENTER",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "SemiBold"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.7764706015586853,
+															"g": 0.22745098173618317,
+															"b": 0.2549019753932953
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1.6286487579345703
+											},
+											{
+												"name":"A high quality T-shirt mostly depends on the type of fabric used. Our products are made of 100% Cotton fabric. Cotton is considered one of the best fabrics for T-shirt manufacturing since it is soft and breathable.",
+												"type":"TEXT",
+												"visible":true,
+												"x":0,
+												"y":40,
+												"width":313,
+												"height":144,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"We use environmentally friendly packaging that is managed under strict criteria of FSC. Efficiently using energy sources and controlling and treating emissions in accordance with ISO 14001:2015.",
+												"fontSize":16,
+												"textAlignHorizontal":"CENTER",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "Light"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.20000000298023224,
+															"g": 0.20000000298023224,
+															"b": 0.20000000298023224
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1.6286487579345703
+											}
+										]
+									},
+									{
+										"name":"Frame 338",
+										"type":"INSTANCE",
+										"visible":true,
+										"x":71,
+										"y":208,
+										"width":171,
+										"height":40,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":4,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 0.7764706015586853,
+													"g": 0.22745098173618317,
+													"b": 0.2549019753932953
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":2,
+										"children":
+										[
+											{
+												"name":"Shop Now",
+												"type":"TEXT",
+												"visible":true,
+												"x":16,
+												"y":8,
+												"width":139,
+												"height":24,
+												"rotation":0,
+												"opacity":1,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"characters":"more information",
+												"fontSize":16,
+												"textAlignHorizontal":"LEFT",
+												"textAlignVertical":"TOP",
+												"fontName":
+												{
+													"family": "Poppins",
+													"style": "Medium"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 1,
+															"g": 0.9921568632125854,
+															"b": 0.8980392217636108
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"",
+												"strokeWeight":1
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
+}

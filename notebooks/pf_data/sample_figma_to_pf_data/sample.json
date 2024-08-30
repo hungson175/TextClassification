@@ -1,0 +1,114 @@
+{
+	"customJS": "",
+	"customCSS": "",
+	"pageflyVersion": "4.14.6",
+	"items": [
+		{
+			"__v": 0,
+			"children": [
+				"4790252d-9d14-425a-9abf-d76032a743ca"
+			],
+			"createdAt": "2022-05-23T10:44:13.481Z",
+			"styles": [],
+			"type": "Body",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "c5479025-2d9d-4412-9ada-bfd76032a743"
+		},
+		{
+			"__v": 0,
+			"children": [
+				"3d59b3fb-654d-420c-aac1-b66720328427"
+			],
+			"createdAt": "2022-05-23T10:44:13.481Z",
+			"styles": [],
+			"type": "Layout",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "4790252d-9d14-425a-9abf-d76032a743ca"
+		},
+		{
+			"__v": 0,
+			"children": [
+				"1d3d59b3-fb65-4dd2-8c6a-c1b667203284"
+			],
+			"createdAt": "2024-08-28T01:57:01.751Z",
+			"data": {
+				"classGlobalStyling": "pf-color-scheme-1"
+			},
+			"styles": [],
+			"type": "Section",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "3d59b3fb-654d-420c-aac1-b66720328427"
+		},
+		{
+			"__v": 0,
+			"children": [
+				"421d3d59-b3fb-454d-920c-6ac1b6672032"
+			],
+			"createdAt": "2024-08-28T01:57:01.751Z",
+			"styles": [],
+			"type": "Row",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "1d3d59b3-fb65-4dd2-8c6a-c1b667203284"
+		},
+		{
+			"__v": 0,
+			"children": [
+				"ea04421d-3d59-43fb-a54d-d20c6ac1b667"
+			],
+			"createdAt": "2024-08-28T01:57:01.751Z",
+			"styles": [],
+			"type": "Column",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "421d3d59-b3fb-454d-920c-6ac1b6672032"
+		},
+		{
+			"__v": 0,
+			"children": [
+				"04421d3d-59b3-4b65-8dd2-0c6ac1b66720"
+			],
+			"createdAt": "2024-08-28T01:57:01.751Z",
+			"data": {
+				"editable": true,
+				"placeholder": "Enter text...",
+				"value": "This is your heading text.",
+				"classGlobalStyling": "pf-heading-1-h3"
+			},
+			"styles": [],
+			"type": "Heading2",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "ea04421d-3d59-43fb-a54d-d20c6ac1b667"
+		},
+		{
+			"__v": 0,
+			"children": [],
+			"createdAt": "2024-08-28T01:57:01.751Z",
+			"data": {
+				"classGlobalStyling": "pf-icon2-1"
+			},
+			"styles": [],
+			"type": "Icon2",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "04421d3d-59b3-4b65-8dd2-0c6ac1b66720"
+		}
+	],
+	"styles": [
+		{
+			"__v": 0,
+			"createdAt": "2024-08-28T01:57:01.751Z",
+			"styles": "{\"all\":{\"&\":\"color: rgb(255, 0, 0);\"}}",
+			"type": "Heading2",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "ea04421d-3d59-43fb-a54d-d20c6ac1b667"
+		},
+		{
+			"__v": 0,
+			"createdAt": "2024-08-28T01:57:01.751Z",
+			"styles": "{\"all\":{\"&\":\"height: 18px;\"}}",
+			"type": "Icon2",
+			"updatedAt": "2024-08-28T01:57:01.751Z",
+			"id": "04421d3d-59b3-4b65-8dd2-0c6ac1b66720"
+		}
+	],
+	"type": "product",
+	"globalSectionData": []
+}

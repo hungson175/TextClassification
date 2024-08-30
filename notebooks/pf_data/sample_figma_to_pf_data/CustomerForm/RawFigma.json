@@ -1,0 +1,923 @@
+{
+"name":"Newsletter",
+"type":"FRAME",
+"visible":true,
+"x":0,
+"y":6933,
+"width":1440,
+"height":852,
+"rotation":0,
+"opacity":1,
+"cornerRadius":0,
+"cornerSmoothing":0,
+"constraints":
+{
+	"horizontal": "SCALE",
+	"vertical": "CENTER"
+},
+"fills":
+[
+	{
+		"type": "SOLID",
+		"visible": true,
+		"opacity": 1,
+		"blendMode": "NORMAL",
+		"color": {
+			"r": 0.7764706015586853,
+			"g": 0.22745098173618317,
+			"b": 0.2549019753932953
+		},
+		"boundVariables": {}
+	}
+],
+"strokeCap":"NONE",
+"strokeJoin":"MITER",
+"strokeMiterLimit":4,
+"strokeStyleId":"",
+"strokeWeight":1,
+"children":
+[
+	{
+		"name":"Frame 340",
+		"type":"INSTANCE",
+		"visible":true,
+		"x":135,
+		"y":88,
+		"width":1170,
+		"height":136,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":0.34478527307510376,
+		"children":
+		[
+			{
+				"name":"Share the love this Valentine",
+				"type":"TEXT",
+				"visible":true,
+				"x":0,
+				"y":0,
+				"width":1170,
+				"height":96,
+				"rotation":0,
+				"opacity":1,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"characters":"Stay in touch",
+				"fontSize":64,
+				"textAlignHorizontal":"CENTER",
+				"textAlignVertical":"TOP",
+				"fontName":
+				{
+					"family": "Sofia",
+					"style": "Regular"
+				},
+				"fills":
+				[
+					{
+						"type": "SOLID",
+						"visible": true,
+						"opacity": 1,
+						"blendMode": "NORMAL",
+						"color": {
+							"r": 1,
+							"g": 0.9921568632125854,
+							"b": 0.8980392217636108
+						},
+						"boundVariables": {}
+					}
+				],
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1.042849063873291
+			},
+			{
+				"name":"Unlock special offer for lovey dovey couples",
+				"type":"TEXT",
+				"visible":true,
+				"x":0,
+				"y":104,
+				"width":1170,
+				"height":32,
+				"rotation":0,
+				"opacity":1,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"characters":"Get exclusive offers, new collection launches, and exciting new products with our newsletter.",
+				"fontSize":24,
+				"textAlignHorizontal":"CENTER",
+				"textAlignVertical":"TOP",
+				"fontName":
+				{
+					"family": "Poppins",
+					"style": "Medium"
+				},
+				"fills":
+				[
+					{
+						"type": "SOLID",
+						"visible": true,
+						"opacity": 1,
+						"blendMode": "NORMAL",
+						"color": {
+							"r": 1,
+							"g": 1,
+							"b": 1
+						},
+						"boundVariables": {}
+					}
+				],
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1.042849063873291
+			}
+		]
+	},
+	{
+		"name":"Frame 339",
+		"type":"FRAME",
+		"visible":true,
+		"x":135,
+		"y":284,
+		"width":1170,
+		"height":361,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1,
+		"children":
+		[
+			{
+				"name":"Frame 341",
+				"type":"FRAME",
+				"visible":true,
+				"x":200,
+				"y":0,
+				"width":770,
+				"height":361,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1,
+				"children":
+				[
+					{
+						"name":"Frame 300",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":0,
+						"y":0,
+						"width":770,
+						"height":56,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":0,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1,
+						"children":
+						[
+							{
+								"name":"First Name",
+								"type":"TEXT",
+								"visible":true,
+								"x":0,
+								"y":14.5,
+								"width":111,
+								"height":27,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"First Name",
+								"fontSize":18,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Poppins",
+									"style": "Light"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":3.0246334075927734
+							},
+							{
+								"name":"Frame 268",
+								"type":"INSTANCE",
+								"visible":true,
+								"x":127,
+								"y":0,
+								"width":643,
+								"height":56,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":4,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":2,
+								"children":
+								[
+									{
+										"name":"Grab it now",
+										"type":"TEXT",
+										"visible":true,
+										"x":16,
+										"y":16,
+										"width":84,
+										"height":24,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":"First Name",
+										"fontSize":16,
+										"textAlignHorizontal":"LEFT",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "Light"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 0.7411764860153198,
+													"g": 0.7411764860153198,
+													"b": 0.7411764860153198
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							}
+						]
+					},
+					{
+						"name":"Frame 341",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":0,
+						"y":71,
+						"width":770,
+						"height":56,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":0,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1,
+						"children":
+						[
+							{
+								"name":"First Name",
+								"type":"TEXT",
+								"visible":true,
+								"x":0,
+								"y":14.5,
+								"width":111,
+								"height":27,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"Last Name",
+								"fontSize":18,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Poppins",
+									"style": "Light"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":3.0246334075927734
+							},
+							{
+								"name":"Frame 268",
+								"type":"INSTANCE",
+								"visible":true,
+								"x":127,
+								"y":0,
+								"width":643,
+								"height":56,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":4,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":2,
+								"children":
+								[
+									{
+										"name":"Grab it now",
+										"type":"TEXT",
+										"visible":true,
+										"x":16,
+										"y":16,
+										"width":84,
+										"height":24,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":"Last Name",
+										"fontSize":16,
+										"textAlignHorizontal":"LEFT",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "Light"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 0.7411764860153198,
+													"g": 0.7411764860153198,
+													"b": 0.7411764860153198
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							}
+						]
+					},
+					{
+						"name":"Frame 342",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":0,
+						"y":142,
+						"width":770,
+						"height":56,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":0,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1,
+						"children":
+						[
+							{
+								"name":"First Name",
+								"type":"TEXT",
+								"visible":true,
+								"x":0,
+								"y":14.5,
+								"width":111,
+								"height":27,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"Email",
+								"fontSize":18,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Poppins",
+									"style": "Light"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":3.0246334075927734
+							},
+							{
+								"name":"Frame 268",
+								"type":"INSTANCE",
+								"visible":true,
+								"x":127,
+								"y":0,
+								"width":643,
+								"height":56,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":4,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":2,
+								"children":
+								[
+									{
+										"name":"Grab it now",
+										"type":"TEXT",
+										"visible":true,
+										"x":16,
+										"y":16,
+										"width":43,
+										"height":24,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":"Email",
+										"fontSize":16,
+										"textAlignHorizontal":"LEFT",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "Light"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 0.7411764860153198,
+													"g": 0.7411764860153198,
+													"b": 0.7411764860153198
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							}
+						]
+					},
+					{
+						"name":"Frame 344",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":0,
+						"y":213,
+						"width":770,
+						"height":148,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":0,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1,
+						"children":
+						[
+							{
+								"name":"Note",
+								"type":"TEXT",
+								"visible":true,
+								"x":0,
+								"y":0,
+								"width":111,
+								"height":27,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"Note",
+								"fontSize":18,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Poppins",
+									"style": "Light"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":3.0246334075927734
+							},
+							{
+								"name":"Frame 268",
+								"type":"INSTANCE",
+								"visible":true,
+								"x":127,
+								"y":0,
+								"width":643,
+								"height":148,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":4,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":2,
+								"children":
+								[
+									{
+										"name":"Grab it now",
+										"type":"TEXT",
+										"visible":true,
+										"x":16,
+										"y":16,
+										"width":37,
+										"height":24,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":"Note",
+										"fontSize":16,
+										"textAlignHorizontal":"LEFT",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "Light"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 0.7411764860153198,
+													"g": 0.7411764860153198,
+													"b": 0.7411764860153198
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name":"Frame 342",
+		"type":"INSTANCE",
+		"visible":true,
+		"x":463,
+		"y":705,
+		"width":514,
+		"height":59,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":8,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"fills":
+		[
+			{
+				"type": "SOLID",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"color": {
+					"r": 1,
+					"g": 0.9921568632125854,
+					"b": 0.8980392217636108
+				},
+				"boundVariables": {}
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":2,
+		"children":
+		[
+			{
+				"name":"Grab it now",
+				"type":"TEXT",
+				"visible":true,
+				"x":211.5,
+				"y":16,
+				"width":91,
+				"height":27,
+				"rotation":0,
+				"opacity":1,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"characters":"Subscribe",
+				"fontSize":18,
+				"textAlignHorizontal":"LEFT",
+				"textAlignVertical":"TOP",
+				"fontName":
+				{
+					"family": "Poppins",
+					"style": "Medium"
+				},
+				"fills":
+				[
+					{
+						"type": "SOLID",
+						"visible": true,
+						"opacity": 1,
+						"blendMode": "NORMAL",
+						"color": {
+							"r": 0.7764706015586853,
+							"g": 0.22745098173618317,
+							"b": 0.2549019753932953
+						},
+						"boundVariables": {}
+					}
+				],
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1
+			}
+		]
+	}
+]
+}

@@ -1,0 +1,411 @@
+{
+"name":"Testimonials",
+"type":"FRAME",
+"visible":true,
+"x":0,
+"y":4543,
+"width":1440,
+"height":993,
+"rotation":0,
+"opacity":1,
+"cornerRadius":0,
+"cornerSmoothing":0,
+"constraints":
+{
+	"horizontal": "MIN",
+	"vertical": "MIN"
+},
+"fills":
+[
+	{
+		"type": "SOLID",
+		"visible": true,
+		"opacity": 1,
+		"blendMode": "NORMAL",
+		"color": {
+			"r": 1,
+			"g": 0.9416666626930237,
+			"b": 0.9483974575996399
+		},
+		"boundVariables": {}
+	}
+],
+"strokeCap":"NONE",
+"strokeJoin":"MITER",
+"strokeMiterLimit":4,
+"strokeStyleId":"",
+"strokeWeight":1,
+"children":
+[
+	{
+		"name":"Frame 274",
+		"type":"FRAME",
+		"visible":true,
+		"x":135,
+		"y":88,
+		"width":1170,
+		"height":817,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1,
+		"children":
+		[
+			{
+				"name":"Frame 339",
+				"type":"INSTANCE",
+				"visible":true,
+				"x":0,
+				"y":0,
+				"width":1170,
+				"height":168,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":0.34478527307510376,
+				"children":
+				[
+					{
+						"name":"Share the love this Valentine",
+						"type":"TEXT",
+						"visible":true,
+						"x":144,
+						"y":0,
+						"width":882,
+						"height":96,
+						"rotation":0,
+						"opacity":1,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"characters":"Why Choose Us",
+						"fontSize":64,
+						"textAlignHorizontal":"CENTER",
+						"textAlignVertical":"TOP",
+						"fontName":
+						{
+							"family": "Sofia",
+							"style": "Regular"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 0.7764706015586853,
+									"g": 0.22745098173618317,
+									"b": 0.2549019753932953
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1.042849063873291
+					},
+					{
+						"name":"Unlock special offer for lovey dovey couples",
+						"type":"TEXT",
+						"visible":true,
+						"x":144,
+						"y":104,
+						"width":882,
+						"height":64,
+						"rotation":0,
+						"opacity":1,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"characters":"As our T-shirts are simple and essential, everyone can mix and match them with their own unique styles at any time.",
+						"fontSize":24,
+						"textAlignHorizontal":"CENTER",
+						"textAlignVertical":"TOP",
+						"fontName":
+						{
+							"family": "Poppins",
+							"style": "Medium"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 0.30980393290519714,
+									"g": 0.30980393290519714,
+									"b": 0.30980393290519714
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1.042849063873291
+					}
+				]
+			},
+			{
+				"name":"Frame 347",
+				"type":"FRAME",
+				"visible":true,
+				"x":0,
+				"y":228,
+				"width":1170,
+				"height":470,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1,
+				"children":
+				[
+					{
+						"name":"image 37",
+						"type":"RECTANGLE",
+						"visible":true,
+						"x":0,
+						"y":0,
+						"width":570,
+						"height":470,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":8,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"fills":
+						[
+							{
+								"type": "IMAGE",
+								"src":"images/089ff6e7234a34b8c8f7d3a9a9ae578c2982410c.png",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"scaleMode": "FILL",
+								"imageTransform": [
+									[
+										0.8085106611251831,
+										0,
+										0.09574468433856964
+									],
+									[
+										0,
+										1,
+										0
+									]
+								],
+								"scalingFactor": 0.5,
+								"rotation": 0,
+								"filters": {
+									"exposure": 0,
+									"contrast": 0,
+									"saturation": 0,
+									"temperature": 0,
+									"tint": 0,
+									"highlights": 0,
+									"shadows": 0
+								},
+								"imageHash": "089ff6e7234a34b8c8f7d3a9a9ae578c2982410c"
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":0.6017544269561768
+					},
+					{
+						"name":"image 36",
+						"type":"RECTANGLE",
+						"visible":true,
+						"x":600,
+						"y":0,
+						"width":570,
+						"height":470,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":8,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"fills":
+						[
+							{
+								"type": "IMAGE",
+								"src":"images/8e597efbe8dd2c0132d56f1912974e95779f1681.png",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"scaleMode": "FILL",
+								"imageTransform": [
+									[
+										0.8085106611251831,
+										0,
+										0.09574468433856964
+									],
+									[
+										0,
+										1,
+										0
+									]
+								],
+								"scalingFactor": 0.5,
+								"rotation": 0,
+								"filters": {
+									"exposure": 0,
+									"contrast": 0,
+									"saturation": 0,
+									"temperature": 0,
+									"tint": 0,
+									"highlights": 0,
+									"shadows": 0
+								},
+								"imageHash": "8e597efbe8dd2c0132d56f1912974e95779f1681"
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":0.6017544269561768
+					}
+				]
+			},
+			{
+				"name":"Frame 268",
+				"type":"INSTANCE",
+				"visible":true,
+				"x":474.5,
+				"y":758,
+				"width":221,
+				"height":59,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":8,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"fills":
+				[
+					{
+						"type": "SOLID",
+						"visible": true,
+						"opacity": 1,
+						"blendMode": "NORMAL",
+						"color": {
+							"r": 0.7764706015586853,
+							"g": 0.22745098173618317,
+							"b": 0.2549019753932953
+						},
+						"boundVariables": {}
+					}
+				],
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":2,
+				"children":
+				[
+					{
+						"name":"Grab it now",
+						"type":"TEXT",
+						"visible":true,
+						"x":32,
+						"y":16,
+						"width":157,
+						"height":27,
+						"rotation":0,
+						"opacity":1,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"characters":"More information",
+						"fontSize":18,
+						"textAlignHorizontal":"LEFT",
+						"textAlignVertical":"TOP",
+						"fontName":
+						{
+							"family": "Poppins",
+							"style": "Medium"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 1,
+									"g": 1,
+									"b": 1
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1
+					}
+				]
+			}
+		]
+	}
+]
+}

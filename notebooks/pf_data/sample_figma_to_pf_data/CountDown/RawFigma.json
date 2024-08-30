@@ -1,0 +1,1345 @@
+{
+"name":"Hero banner",
+"type":"FRAME",
+"visible":true,
+"x":0,
+"y":0,
+"width":1440,
+"height":858,
+"rotation":0,
+"opacity":1,
+"cornerRadius":0,
+"cornerSmoothing":0,
+"constraints":
+{
+	"horizontal": "MIN",
+	"vertical": "MIN"
+},
+"strokeCap":"NONE",
+"strokeJoin":"MITER",
+"strokeMiterLimit":4,
+"strokeStyleId":"",
+"strokeWeight":1,
+"children":
+[
+	{
+		"name":"Announcement bar",
+		"type":"FRAME",
+		"visible":true,
+		"x":0,
+		"y":0,
+		"width":1440,
+		"height":75,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"fills":
+		[
+			{
+				"type": "SOLID",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"color": {
+					"r": 1,
+					"g": 0.9921568632125854,
+					"b": 0.8980392217636108
+				},
+				"boundVariables": {}
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1,
+		"children":
+		[
+			{
+				"name":"Frame 274",
+				"type":"FRAME",
+				"visible":true,
+				"x":15,
+				"y":24,
+				"width":1410,
+				"height":27,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":0.34478527307510376,
+				"children":
+				[
+					{
+						"name":"Need it by Valentine? Select Express Shipping at Checkout!",
+						"type":"TEXT",
+						"visible":true,
+						"x":0,
+						"y":0,
+						"width":1410,
+						"height":27,
+						"rotation":0,
+						"opacity":1,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"characters":"Need it by Valentine? Select Express Shipping at Checkout!",
+						"fontSize":18,
+						"textAlignHorizontal":"CENTER",
+						"textAlignVertical":"TOP",
+						"style-fontName":
+						[
+							{
+								"characters": "Need it by Valentine?",
+								"start": 0,
+								"end": 21,
+								"fontName": {
+									"family": "Poppins",
+									"style": "Light"
+								}
+							},
+							{
+								"characters": " Select Express Shipping at Checkout!",
+								"start": 21,
+								"end": 58,
+								"fontName": {
+									"family": "Poppins",
+									"style": "Medium"
+								}
+							}
+						]
+,
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 0.20000000298023224,
+									"g": 0.20000000298023224,
+									"b": 0.20000000298023224
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1.042849063873291
+					}
+				]
+			}
+		]
+	},
+	{
+		"name":"Hero banner",
+		"type":"FRAME",
+		"visible":true,
+		"x":0,
+		"y":75,
+		"width":1440,
+		"height":783,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"fills":
+		[
+			{
+				"type": "SOLID",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"color": {
+					"r": 0.929411768913269,
+					"g": 0.46666666865348816,
+					"b": 0.46666666865348816
+				},
+				"boundVariables": {}
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1,
+		"children":
+		[
+			{
+			},
+			{
+			},
+			{
+				"name":"Mask group",
+				"type":"GROUP",
+				"visible":true,
+				"x":503.1786804199219,
+				"y":-52.76032257080078,
+				"width":1291.8935546875,
+				"height":1288.7562255859375,
+				"rotation":0,
+				"opacity":1,
+				"children":
+				[
+					{
+						"name":"Vector",
+						"type":"VECTOR",
+						"visible":true,
+						"x":503.1786804199219,
+						"y":577.9050216674805,
+						"width":936.99560546875,
+						"height":889.8204345703125,
+						"rotation":42.30459172543456,
+						"opacity":1,
+						"cornerRadius":0,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "SCALE",
+							"vertical": "SCALE"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 0,
+									"g": 0,
+									"b": 0
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1
+					},
+					{
+						"name":"image 52",
+						"type":"RECTANGLE",
+						"visible":true,
+						"x":618.9999694824219,
+						"y":64.99999237060547,
+						"width":1032,
+						"height":718,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":0,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"fills":
+						[
+							{
+								"type": "IMAGE",
+								"src":"images/7c9c3d86427b8c41b1de9503032ea8ceb9a1d5b9.png",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"scaleMode": "FILL",
+								"imageTransform": [
+									[
+										0.6190729141235352,
+										0,
+										0.19046354293823242
+									],
+									[
+										0,
+										1,
+										0
+									]
+								],
+								"scalingFactor": 0.5,
+								"rotation": 0,
+								"filters": {
+									"exposure": 0,
+									"contrast": 0,
+									"saturation": 0,
+									"temperature": 0,
+									"tint": 0,
+									"highlights": 0,
+									"shadows": 0
+								},
+								"imageHash": "7c9c3d86427b8c41b1de9503032ea8ceb9a1d5b9"
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1
+					}
+				]
+			},
+			{
+				"name":"Frame 1",
+				"type":"FRAME",
+				"visible":true,
+				"x":0,
+				"y":0,
+				"width":1440,
+				"height":783,
+				"rotation":0,
+				"opacity":1,
+				"cornerRadius":0,
+				"cornerSmoothing":0,
+				"constraints":
+				{
+					"horizontal": "MIN",
+					"vertical": "MIN"
+				},
+				"strokeCap":"NONE",
+				"strokeJoin":"MITER",
+				"strokeMiterLimit":4,
+				"strokeStyleId":"",
+				"strokeWeight":1,
+				"children":
+				[
+					{
+						"name":"Frame 2",
+						"type":"FRAME",
+						"visible":true,
+						"x":135,
+						"y":88,
+						"width":569,
+						"height":336,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":0,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1,
+						"children":
+						[
+							{
+								"name":"Up to 55% sale",
+								"type":"TEXT",
+								"visible":true,
+								"x":0,
+								"y":0,
+								"width":569,
+								"height":32,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"Up to 55% sale",
+								"fontSize":32,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Poppins",
+									"style": "SemiBold"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":3.0246334075927734
+							},
+							{
+								"name":"Celebrate this Valentine's day",
+								"type":"TEXT",
+								"visible":true,
+								"x":0,
+								"y":56,
+								"width":569,
+								"height":192,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"Celebrate this\nValentine's day",
+								"fontSize":80,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Sofia",
+									"style": "Regular"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 0.9921568632125854,
+											"b": 0.8980392217636108
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":3.0246334075927734
+							},
+							{
+								"name":"The perfect Valentine's Day gift for you and your partner",
+								"type":"TEXT",
+								"visible":true,
+								"x":0,
+								"y":272,
+								"width":569,
+								"height":64,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"The perfect Valentine's Day gift for you and your partner",
+								"fontSize":24,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Poppins",
+									"style": "Regular"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 1,
+											"g": 1,
+											"b": 1
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":3.0246334075927734
+							}
+						]
+					},
+					{
+						"name":"Frame 25",
+						"type":"FRAME",
+						"visible":true,
+						"x":135,
+						"y":484,
+						"width":247,
+						"height":92,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":12,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "CENTER",
+							"vertical": "CENTER"
+						},
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":1,
+						"children":
+						[
+							{
+								"name":"Frame 24",
+								"type":"FRAME",
+								"visible":true,
+								"x":0,
+								"y":0,
+								"width":63,
+								"height":92,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":"Frame 19",
+										"type":"FRAME",
+										"visible":true,
+										"x":0,
+										"y":0,
+										"width":63,
+										"height":61,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":0,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1,
+										"children":
+										[
+											{
+												"name":"Frame 13",
+												"type":"FRAME",
+												"visible":true,
+												"x":0,
+												"y":0,
+												"width":63,
+												"height":61,
+												"rotation":0,
+												"opacity":1,
+												"cornerRadius":60,
+												"cornerSmoothing":0,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 1,
+															"g": 0.9416666626930237,
+															"b": 0.9483974575996399
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"S:b4fab3bc58d4fb522331cbe6c3e370c716a9727c,204:14",
+												"strokeWeight":2,
+												"strokes":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.929411768913269,
+															"g": 0.46666666865348816,
+															"b": 0.46666666865348816
+														},
+														"boundVariables": {}
+													}
+												],
+												"children":
+												[
+													{
+														"name":"06",
+														"type":"TEXT",
+														"visible":true,
+														"x":16,
+														"y":16,
+														"width":31,
+														"height":29,
+														"rotation":0,
+														"opacity":1,
+														"constraints":
+														{
+															"horizontal": "MIN",
+															"vertical": "MIN"
+														},
+														"characters":"06",
+														"fontSize":24,
+														"textAlignHorizontal":"CENTER",
+														"textAlignVertical":"TOP",
+														"fontName":
+														{
+															"family": "Poppins",
+															"style": "SemiBold"
+														},
+														"fills":
+														[
+															{
+																"type": "SOLID",
+																"visible": true,
+																"opacity": 1,
+																"blendMode": "NORMAL",
+																"color": {
+																	"r": 0.7764706015586853,
+																	"g": 0.22745098173618317,
+																	"b": 0.2549019753932953
+																},
+																"boundVariables": {}
+															}
+														],
+														"strokeCap":"NONE",
+														"strokeJoin":"MITER",
+														"strokeMiterLimit":4,
+														"strokeStyleId":"",
+														"strokeWeight":1
+													}
+												]
+											}
+										]
+									},
+									{
+										"name":"days",
+										"type":"TEXT",
+										"visible":true,
+										"x":9,
+										"y":65,
+										"width":45,
+										"height":27,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":"days",
+										"fontSize":18,
+										"textAlignHorizontal":"CENTER",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "Medium"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 1,
+													"g": 1,
+													"b": 1
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							},
+							{
+								"name":"Frame 332",
+								"type":"FRAME",
+								"visible":true,
+								"x":71,
+								"y":0,
+								"width":7,
+								"height":61,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":":",
+										"type":"TEXT",
+										"visible":true,
+										"x":0,
+										"y":16,
+										"width":7,
+										"height":29,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":":",
+										"fontSize":24,
+										"textAlignHorizontal":"CENTER",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "SemiBold"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 1,
+													"g": 1,
+													"b": 1
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							},
+							{
+								"name":"Frame 23",
+								"type":"FRAME",
+								"visible":true,
+								"x":86,
+								"y":0,
+								"width":63,
+								"height":92,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":"Frame 20",
+										"type":"FRAME",
+										"visible":true,
+										"x":0,
+										"y":0,
+										"width":63,
+										"height":61,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":0,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1,
+										"children":
+										[
+											{
+												"name":"Frame 15",
+												"type":"FRAME",
+												"visible":true,
+												"x":0,
+												"y":0,
+												"width":63,
+												"height":61,
+												"rotation":0,
+												"opacity":1,
+												"cornerRadius":60,
+												"cornerSmoothing":0,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 1,
+															"g": 0.9416666626930237,
+															"b": 0.9483974575996399
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"S:b4fab3bc58d4fb522331cbe6c3e370c716a9727c,204:14",
+												"strokeWeight":2,
+												"strokes":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.929411768913269,
+															"g": 0.46666666865348816,
+															"b": 0.46666666865348816
+														},
+														"boundVariables": {}
+													}
+												],
+												"children":
+												[
+													{
+														"name":"12",
+														"type":"TEXT",
+														"visible":true,
+														"x":20,
+														"y":16,
+														"width":23,
+														"height":29,
+														"rotation":0,
+														"opacity":1,
+														"constraints":
+														{
+															"horizontal": "MIN",
+															"vertical": "MIN"
+														},
+														"characters":"12",
+														"fontSize":24,
+														"textAlignHorizontal":"CENTER",
+														"textAlignVertical":"TOP",
+														"fontName":
+														{
+															"family": "Poppins",
+															"style": "SemiBold"
+														},
+														"fills":
+														[
+															{
+																"type": "SOLID",
+																"visible": true,
+																"opacity": 1,
+																"blendMode": "NORMAL",
+																"color": {
+																	"r": 0.7764706015586853,
+																	"g": 0.22745098173618317,
+																	"b": 0.2549019753932953
+																},
+																"boundVariables": {}
+															}
+														],
+														"strokeCap":"NONE",
+														"strokeJoin":"MITER",
+														"strokeMiterLimit":4,
+														"strokeStyleId":"",
+														"strokeWeight":1
+													}
+												]
+											}
+										]
+									},
+									{
+										"name":"hours",
+										"type":"TEXT",
+										"visible":true,
+										"x":5.5,
+										"y":65,
+										"width":52,
+										"height":27,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":"hours",
+										"fontSize":18,
+										"textAlignHorizontal":"CENTER",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "Medium"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 1,
+													"g": 1,
+													"b": 1
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							},
+							{
+								"name":"Frame 331",
+								"type":"FRAME",
+								"visible":true,
+								"x":157,
+								"y":0,
+								"width":7,
+								"height":92,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":":",
+										"type":"TEXT",
+										"visible":true,
+										"x":0,
+										"y":16,
+										"width":7,
+										"height":29,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":":",
+										"fontSize":24,
+										"textAlignHorizontal":"CENTER",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "SemiBold"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 1,
+													"g": 1,
+													"b": 1
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							},
+							{
+								"name":"Frame 22",
+								"type":"FRAME",
+								"visible":true,
+								"x":172,
+								"y":0,
+								"width":75,
+								"height":92,
+								"rotation":0,
+								"opacity":1,
+								"cornerRadius":0,
+								"cornerSmoothing":0,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1,
+								"children":
+								[
+									{
+										"name":"Frame 21",
+										"type":"FRAME",
+										"visible":true,
+										"x":6,
+										"y":0,
+										"width":63,
+										"height":61,
+										"rotation":0,
+										"opacity":1,
+										"cornerRadius":0,
+										"cornerSmoothing":0,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1,
+										"children":
+										[
+											{
+												"name":"Frame 17",
+												"type":"FRAME",
+												"visible":true,
+												"x":0,
+												"y":0,
+												"width":63,
+												"height":61,
+												"rotation":0,
+												"opacity":1,
+												"cornerRadius":60,
+												"cornerSmoothing":0,
+												"constraints":
+												{
+													"horizontal": "MIN",
+													"vertical": "MIN"
+												},
+												"fills":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 1,
+															"g": 0.9416666626930237,
+															"b": 0.9483974575996399
+														},
+														"boundVariables": {}
+													}
+												],
+												"strokeCap":"NONE",
+												"strokeJoin":"MITER",
+												"strokeMiterLimit":4,
+												"strokeStyleId":"S:b4fab3bc58d4fb522331cbe6c3e370c716a9727c,204:14",
+												"strokeWeight":2,
+												"strokes":
+												[
+													{
+														"type": "SOLID",
+														"visible": true,
+														"opacity": 1,
+														"blendMode": "NORMAL",
+														"color": {
+															"r": 0.929411768913269,
+															"g": 0.46666666865348816,
+															"b": 0.46666666865348816
+														},
+														"boundVariables": {}
+													}
+												],
+												"children":
+												[
+													{
+														"name":"56",
+														"type":"TEXT",
+														"visible":true,
+														"x":16,
+														"y":16,
+														"width":31,
+														"height":29,
+														"rotation":0,
+														"opacity":1,
+														"constraints":
+														{
+															"horizontal": "MIN",
+															"vertical": "MIN"
+														},
+														"characters":"56",
+														"fontSize":24,
+														"textAlignHorizontal":"CENTER",
+														"textAlignVertical":"TOP",
+														"fontName":
+														{
+															"family": "Poppins",
+															"style": "SemiBold"
+														},
+														"fills":
+														[
+															{
+																"type": "SOLID",
+																"visible": true,
+																"opacity": 1,
+																"blendMode": "NORMAL",
+																"color": {
+																	"r": 0.7764706015586853,
+																	"g": 0.22745098173618317,
+																	"b": 0.2549019753932953
+																},
+																"boundVariables": {}
+															}
+														],
+														"strokeCap":"NONE",
+														"strokeJoin":"MITER",
+														"strokeMiterLimit":4,
+														"strokeStyleId":"",
+														"strokeWeight":1
+													}
+												]
+											}
+										]
+									},
+									{
+										"name":"minutes",
+										"type":"TEXT",
+										"visible":true,
+										"x":0,
+										"y":65,
+										"width":75,
+										"height":27,
+										"rotation":0,
+										"opacity":1,
+										"constraints":
+										{
+											"horizontal": "MIN",
+											"vertical": "MIN"
+										},
+										"characters":"minutes",
+										"fontSize":18,
+										"textAlignHorizontal":"CENTER",
+										"textAlignVertical":"TOP",
+										"fontName":
+										{
+											"family": "Poppins",
+											"style": "Medium"
+										},
+										"fills":
+										[
+											{
+												"type": "SOLID",
+												"visible": true,
+												"opacity": 1,
+												"blendMode": "NORMAL",
+												"color": {
+													"r": 1,
+													"g": 1,
+													"b": 1
+												},
+												"boundVariables": {}
+											}
+										],
+										"strokeCap":"NONE",
+										"strokeJoin":"MITER",
+										"strokeMiterLimit":4,
+										"strokeStyleId":"",
+										"strokeWeight":1
+									}
+								]
+							}
+						]
+					},
+					{
+						"name":"Frame 268",
+						"type":"INSTANCE",
+						"visible":true,
+						"x":135,
+						"y":636,
+						"width":169,
+						"height":59,
+						"rotation":0,
+						"opacity":1,
+						"cornerRadius":8,
+						"cornerSmoothing":0,
+						"constraints":
+						{
+							"horizontal": "MIN",
+							"vertical": "MIN"
+						},
+						"fills":
+						[
+							{
+								"type": "SOLID",
+								"visible": true,
+								"opacity": 1,
+								"blendMode": "NORMAL",
+								"color": {
+									"r": 1,
+									"g": 0.9921568632125854,
+									"b": 0.8980392217636108
+								},
+								"boundVariables": {}
+							}
+						],
+						"strokeCap":"NONE",
+						"strokeJoin":"MITER",
+						"strokeMiterLimit":4,
+						"strokeStyleId":"",
+						"strokeWeight":2,
+						"children":
+						[
+							{
+								"name":"Grab it now",
+								"type":"TEXT",
+								"visible":true,
+								"x":32,
+								"y":16,
+								"width":105,
+								"height":27,
+								"rotation":0,
+								"opacity":1,
+								"constraints":
+								{
+									"horizontal": "MIN",
+									"vertical": "MIN"
+								},
+								"characters":"Grab it now",
+								"fontSize":18,
+								"textAlignHorizontal":"LEFT",
+								"textAlignVertical":"TOP",
+								"fontName":
+								{
+									"family": "Poppins",
+									"style": "Medium"
+								},
+								"fills":
+								[
+									{
+										"type": "SOLID",
+										"visible": true,
+										"opacity": 1,
+										"blendMode": "NORMAL",
+										"color": {
+											"r": 0.7764706015586853,
+											"g": 0.22745098173618317,
+											"b": 0.2549019753932953
+										},
+										"boundVariables": {}
+									}
+								],
+								"strokeCap":"NONE",
+								"strokeJoin":"MITER",
+								"strokeMiterLimit":4,
+								"strokeStyleId":"",
+								"strokeWeight":1
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
+}
